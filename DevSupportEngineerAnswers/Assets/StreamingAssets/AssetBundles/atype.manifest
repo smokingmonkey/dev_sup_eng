@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3497012712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5a90a09f10141ccb8454a54b518a30d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_AssetBundlesTest/Prefabs/CubeA.prefab
+Dependencies:
+- D:/Proyectos/Unity/Jobs/DevSupportEngineer/DevSupportEngineerAnswers/Assets/StreamingAssets/AssetBundles/modulesbeatifulmaterials

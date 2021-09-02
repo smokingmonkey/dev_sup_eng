@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2050966582
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modulesbeatifulmaterials
+      Dependencies: {}
+    Info_1:
+      Name: btype
+      Dependencies:
+        Dependency_0: modulesbeatifulmaterials
+    Info_2:
+      Name: atype
+      Dependencies:
+        Dependency_0: modulesbeatifulmaterials
